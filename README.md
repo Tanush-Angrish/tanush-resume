@@ -8,7 +8,7 @@ This site showcases my resume including education, experience, projects, skills,
 ## 🌐 Live Demo
 
 👉 [https://tanush-resume.vercel.app](https://tanush-resume.vercel.app)  
-_(Update with your real Vercel URL after deploying)_
+
 
 ---
 
